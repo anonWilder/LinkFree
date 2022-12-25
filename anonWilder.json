@@ -1,0 +1,57 @@
+{
+  "name": "Egbonu Kenechukwu",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Science Educator turned **Software Engineer/Web Development Engineer**. Jazz Lover, Quiet soul & Gamer",
+  "avatar": "https://github.com/anonWilder.png",
+  "tags": ["C", "Python", "Technical Writing", "C", "Django"],
+  "socials": [
+    { "icon": "twitter", "url": "https://twitter.com/Kenechi__" },
+    { "icon": "github", "url": "https://github.com/anonWilder/" },
+    { "icon": "linkedin", "url": "https://www.linkedin.com/in/kenechukwu-egbonu-640748230/" },
+    { "icon": "hashnode", "url": "https://hashnode.com/@EGBONU" },
+    { "icon": "medium", "url": "https://medium.com/@austineokafor.e" }
+  ],
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/anonWilder/",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Kenechi__",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://twitter.com/EddieAndSaraExplore",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/egbonu_kenechukwu/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "Follow me on Medium",
+      "url": "https://medium.com/@austineokafor.e",
+      "icon": "FaMedium"
+    },
+    {
+      "name": "Follow me on Hashnode",
+      "url": "https://hashnode.com/@EGBONU",
+      "icon": "FaHashnode"
+    },
+  ],
+  "milestones": [
+    {
+      "title": "Started Freelancing",
+      "date": "September 2022",
+      "icon": "FaDollarSign",
+      "color": "blue",
+      "description": "Started freelancing",
+      "url": "https://github.com/anonWilder/"
+    }
+  ]
+}
